@@ -13,13 +13,13 @@ color:
 layout_spectrum: 0.9156367613468319
 name: Bobby Hanson (Soundmaker)
 navigation:
+  - name: Cole Berry
+    url: coleberrymusic.com
+    type: external
   - name: Wooster
     url: woosterband.com
     type: external
   - name: Sylvan Music
     url: sylvanmusic.com
-    type: external
-  - name: Cole Berry
-    url: coleberrymusic.com
     type: external
 title: Enter the Sonic Hot Tub
