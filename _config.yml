@@ -19,4 +19,7 @@ navigation:
   - name: Sylvan Music
     url: sylvanmusic.com
     type: external
+  - name: Cole Berry
+    url: coleberrymusic.com
+    type: external
 title: Enter the Sonic Hot Tub
