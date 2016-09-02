@@ -31,6 +31,9 @@ navigation:
   - name: 'UA Apollo Promo Vid (1:54)'
     url: 'https://www.youtube.com/watch?v=lgP_Oj24Tcw&feature=youtu.be'
     type: external
+  - name: WOOSTER on iTunes
+    url: 'https://itunes.apple.com/us/artist/wooster/id352702816?ign-mpt=uo%3D4'
+    type: external
   - name: Emmet Peixoto - "Sky Burns Out" Vid @ Hyde St. Studios SF
     url: 'https://www.youtube.com/watch?v=UHukQ903BmI'
     type: external
@@ -39,9 +42,6 @@ navigation:
     type: external
   - name: Drumatom Promo Vid (Original Music composed by BH)
     url: 'https://www.youtube.com/watch?v=Gk6MGvb8kRo'
-    type: external
-  - name: WOOSTER on iTunes
-    url: 'https://itunes.apple.com/us/artist/wooster/id352702816?ign-mpt=uo%3D4'
     type: external
 title: BOBBY HANSON
 description: >-
