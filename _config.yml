@@ -1,4 +1,6 @@
 typography_spectrum: 0.08858116250485182
+content_rating:
+  adult: false
 color:
   brandStrength: 0.3001041910611093
   lightness: 0.7300947073381394
@@ -11,6 +13,11 @@ color:
     - '#3E363F'
     - '#DD403A'
 layout_spectrum: 0.9156367613468319
+author:
+  name: Bobby Hanson
+  email: slapbass78@gmail.com
+  url: bobbyhanson.com
+logo: null
 name: Bobby Hanson (Soundmaker)
 navigation:
   - name: Cole Berry
