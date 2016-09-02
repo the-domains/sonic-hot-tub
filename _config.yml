@@ -13,6 +13,8 @@ color:
     - '#3E363F'
     - '#DD403A'
 layout_spectrum: 0.9156367613468319
+analytics:
+  google: UA-83369675-1
 author:
   name: Bobby Hanson
   email: slapbass78@gmail.com
