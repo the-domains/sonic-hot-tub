@@ -28,6 +28,9 @@ navigation:
   - name: WOOSTER
     url: 'http://woosterband.com'
     type: external
+  - name: Universal Audio Apollo Promo Vid
+    url: 'https://www.youtube.com/watch?v=lgP_Oj24Tcw&feature=youtu.be'
+    type: external
 title: BOBBY HANSON
 description: >-
   (Bassist, Guitarist, Producer, Gardener, Beekeeper, Foodie, Father and Keeper
