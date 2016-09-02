@@ -1,17 +1,19 @@
 ---
-datePublished: '2016-08-30T17:14:14.331Z'
+datePublished: '2016-08-30T17:26:01.042Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-30T17:13:56.665Z'
+dateModified: '2016-08-30T17:26:00.514Z'
 title: BASS PLACE!
 publisher: {}
 description: >-
   @ Cole’s rehearsing some smokin’ funk tunes for Funk Night tonight at The
   Crepe with VITAMINS!
-starred: false
 sourcePath: _posts/2016-08-30-bass-place.md
-_type: Blurb
+hasPage: true
+starred: false
+url: bass-place/index.html
+_type: Article
 
 ---
 # BASS PLACE!
