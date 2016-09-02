@@ -12,6 +12,9 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/40685f92-83b0-4407-b476-7a7a5d8af874.jpg
 layout_spectrum: 0.9156367613468319
 analytics:
   google: UA-83369675-1
