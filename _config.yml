@@ -19,4 +19,7 @@ navigation:
   - name: Wooster
     url: woosterband.com
     type: external
+  - name: Sylvan Music
+    url: sylvanmusic.com
+    type: external
 title: Enter the Sonic Hot Tub
