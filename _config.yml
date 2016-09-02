@@ -12,4 +12,8 @@ color:
     - '#DD403A'
 layout_spectrum: 0.9156367613468319
 name: Bobby Hanson (Soundmaker)
+navigation:
+  - name: Cole Berry
+    url: 'http://www.coleberrymusic.com/'
+    type: external
 title: Enter the Sonic Hot Tub
