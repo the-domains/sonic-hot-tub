@@ -19,4 +19,8 @@ author:
   url: bobbyhanson.com
 logo: null
 name: Bobby Hanson (Soundmaker)
+navigation:
+  - name: BASS PLACE!
+    id: afb8b4d4-7bc7-4b45-bc15-4e5cca165e37
+    type: content
 title: Enter the Sonic Hot Tub
