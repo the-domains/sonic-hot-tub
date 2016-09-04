@@ -1,6 +1,5 @@
+layout_spectrum: 0.9156367613468319
 typography_spectrum: 0.08858116250485182
-content_rating:
-  adult: false
 color:
   brandStrength: 0.3001041910611093
   lightness: 0.7300947073381394
@@ -12,38 +11,4 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-opengraph:
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/40685f92-83b0-4407-b476-7a7a5d8af874.jpg
-layout_spectrum: 0.9156367613468319
-analytics:
-  google: UA-83369675-1
-author:
-  name: Bobby Hanson
-  email: slapbass78@gmail.com
-  url: bobbyhanson.com
-logo: null
-name: Bobby Hanson (Soundmaker)
-navigation:
-  - name: WOOSTER
-    url: 'http://woosterband.com'
-    type: external
-  - name: 'UA Apollo Promo Vid (1:54)'
-    url: 'https://www.youtube.com/watch?v=lgP_Oj24Tcw&feature=youtu.be'
-    type: external
-  - name: WOOSTER on iTunes
-    url: 'https://itunes.apple.com/us/artist/wooster/id352702816?ign-mpt=uo%3D4'
-    type: external
-  - name: Emmet Peixoto - "Sky Burns Out" Vid @ Hyde St. Studios SF
-    url: 'https://www.youtube.com/watch?v=UHukQ903BmI'
-    type: external
-  - name: Drumatom Promo Vid (Original Music composed by BH)
-    url: 'https://www.youtube.com/watch?v=Gk6MGvb8kRo'
-    type: external
-  - name: Wooster - "Ooh Girl" Vid
-    url: 'https://www.youtube.com/watch?v=Xzaqcx3S_-Q'
-    type: external
-title: BOBBY HANSON
-description: >-
-  (Bassist, Guitarist, Producer, Gardener, Beekeeper, Foodie, Father and Keeper
-  of the Funk)  LESSONS/RECORDING/PERFORMANCE 831.278.6899 slapbass78@gmail.com
+name: Sonic Hot Tub
